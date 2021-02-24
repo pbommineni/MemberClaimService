@@ -1,0 +1,1 @@
+[{"MemberID":1123,"EnrollmentDate":"2020-09-01T00:00:00","FirstName":"John","LastName":"Doe","Claims":[{"ClaimID":1,"MemberID":1123,"ClaimDate":"2020-10-06T00:00:00","ClaimAmount":1112.56}]}]
